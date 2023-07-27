@@ -1,6 +1,6 @@
 # MultiGame
 
-This is a collection of project that I made when I first started learning C#.   
+This is a collection of projects that I made when I first started learning C#.   
 I worked off Microsoft tutorials and then added more features to further my learning. 
 
 The games are Tic Tac Toe (Noughts and Crosses), A Maze, A simple maths quiz and a matching game.  
