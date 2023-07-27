@@ -16,5 +16,29 @@ namespace MultiGame
         {
             InitializeComponent();
         }
+
+        private void tttButton_Click(object sender, EventArgs e)
+        {
+            Form2 Form2 = new Form2();
+            Form2.ShowDialog();
+        }
+
+        private void mazeButton_Click(object sender, EventArgs e)
+        {
+            Form3 Form3 = new Form3();
+            Form3.ShowDialog();
+        }
+
+        private void mathsButton_Click(object sender, EventArgs e)
+        {
+            Form4 Form4 = new Form4();
+            Form4.ShowDialog();
+        }
+
+        private void matchButton_Click(object sender, EventArgs e)
+        {
+            Form5 Form5 = new Form5();
+            Form5.ShowDialog();
+        }
     }
 }
