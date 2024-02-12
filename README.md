@@ -9,3 +9,5 @@ The are mostly self-explanatory except the maze.
 The maze is played using your mouse. The goal is to get from one end of the screen to the other without touching the walls (dark blue).  
 There are obstacles, enemies, and traps in this maze as well as bonuses.   
 This project is about 3 years old so there are definately some things that I would add or improve. 
+
+new changes
